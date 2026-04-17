@@ -11,7 +11,7 @@
   ],
   "config": {
     "api_base_url": "https://fshub.io",
-    "endpoint_pattern": "/pilot/{id}/achievement",
+    "endpoint_pattern": "/flight/{id}/achievement",
     "last_updated": null
   }
 }
