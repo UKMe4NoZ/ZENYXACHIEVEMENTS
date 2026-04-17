@@ -1,0 +1,17 @@
+{
+  "pilots": [
+    { "id": 3696, "pilot_url": "https://fshub.io", "achievements": [] },
+    { "id": 20936, "pilot_url": "https://fshub.io", "achievements": [] },
+    { "id": 20938, "pilot_url": "https://fshub.io", "achievements": [] },
+    { "id": 20948, "pilot_url": "https://fshub.io", "achievements": [] },
+    { "id": 22613, "pilot_url": "https://fshub.io", "achievements": [] },
+    { "id": 22637, "pilot_url": "https://fshub.io", "achievements": [] },
+    { "id": 25437, "pilot_url": "https://fshub.io", "achievements": [] },
+    { "id": 26595, "pilot_url": "https://fshub.io", "achievements": [] }
+  ],
+  "config": {
+    "api_base_url": "https://fshub.io",
+    "endpoint_pattern": "/pilot/{id}/achievement",
+    "last_updated": null
+  }
+}
