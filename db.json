@@ -50,6 +50,6 @@
   "config": {
     "api_base_url": "https://fshub.io",
     "endpoint_pattern": "/flight/{id}/achievement",
-    "last_updated": "2026-04-18T09:25:53.822Z"
+    "last_updated": "2026-04-18T09:56:22.850Z"
   }
 }
